@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">国たくさんリスト</string>
+    <string-array name="nation_list">
+        <item>日本</item>
+        <item>アメリカ</item>
+        <item>ロシア</item>
+        <item>中国</item>
+        <item>韓国</item>
+        <item>ブラジル</item>
+        <item>オーストラリア</item>
+        <item>イギリス</item>
+        <item>カナダ</item>
+        <item>インド</item>
+        <item>北朝鮮</item>
+        <item>インドネシア</item>
+        <item>タイ</item>
+        <item>イタリア</item>
+        <item>ドイツ</item>
+    </string-array>
+
+
+</resources>
